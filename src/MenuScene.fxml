@@ -10,9 +10,9 @@
       <AnchorPane fx:id="anchorpane" maxHeight="720" maxWidth="1080" minHeight="480" minWidth="720" prefHeight="720" prefWidth="1080">
          <children>
             <Pane fx:id="bg" layoutX="0" layoutY="0" prefHeight="480" prefWidth="720" />
-            <Button fx:id="playButton" layoutX="450.0" layoutY="133.0" mnemonicParsing="false" onAction="#gotoGameScene" prefHeight="79.0" prefWidth="191.0" text="play" />
-            <Button fx:id="exitButton" layoutX="449.0" layoutY="408.0" mnemonicParsing="false" onAction="#closeWindow" prefHeight="79.0" prefWidth="191.0" text="exit" />
-            <Button fx:id="howtoButton" layoutX="446.0" layoutY="268.0" mnemonicParsing="false" onAction="#openHowtoScene" prefHeight="79.0" prefWidth="191.0" text="how to play" />
+            <Button fx:id="playButton" layoutX="450.0" layoutY="420.0" mnemonicParsing="false" onAction="#gotoGameScene" prefHeight="79.0" prefWidth="191.0" text="PLAY" />
+            <Button fx:id="exitButton" layoutX="449.0" layoutY="587.0" mnemonicParsing="false" onAction="#closeWindow" prefHeight="79.0" prefWidth="191.0" text="EXIT" />
+            <Button fx:id="howtoButton" layoutX="293.0" layoutY="511.0" mnemonicParsing="false" onAction="#openHowtoScene" prefHeight="79.0" prefWidth="500.0" text="HOW TO PLAY" />
          </children>
       </AnchorPane>
    </children>

@@ -44,6 +44,7 @@ public class HowtoSceneController {
 
     @FXML
     void initialize() {
+        gotoMenuButton.getStylesheets().add("design/style.css");
         bg.getChildren().add(SetpicMainPages.setpicBgHowtoplay());
         assert gotoMenuButton != null : "fx:id=\"gotoMenuButton\" was not injected: check your FXML file 'HowtoplayScene.fxml'.";
 

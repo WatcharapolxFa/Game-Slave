@@ -14,9 +14,11 @@ public class App extends Application{
     @Override 
     public void start(Stage stage) throws Exception {
 
+       
         Parent root = FXMLLoader.load(getClass().getResource("MenuScene.fxml"));
         stage.setScene(new Scene(root));
         stage.setTitle("Slave Menu");
+        stage.setResizable(false);
         stage.show();
         
     }

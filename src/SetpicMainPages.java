@@ -80,47 +80,47 @@ public class SetpicMainPages {
         ArrayList<javafx.scene.image.ImageView> imageview = new ArrayList<javafx.scene.image.ImageView>();  
 
         imageview.add(new javafx.scene.image.ImageView("file:pic/numbers/0.png"));
-        imageview.get(0).setFitWidth(50);
-        imageview.get(0).setFitHeight(50);
+        imageview.get(0).setFitWidth(65);
+        imageview.get(0).setFitHeight(65);
         imageview.add(new javafx.scene.image.ImageView("file:pic/numbers/1.png"));
-        imageview.get(1).setFitWidth(50);
-        imageview.get(1).setFitHeight(50);
+        imageview.get(1).setFitWidth(65);
+        imageview.get(1).setFitHeight(65);
         imageview.add(new javafx.scene.image.ImageView("file:pic/numbers/2.png"));
-        imageview.get(2).setFitWidth(50);
-        imageview.get(2).setFitHeight(50);
+        imageview.get(2).setFitWidth(65);
+        imageview.get(2).setFitHeight(65);
         imageview.add(new javafx.scene.image.ImageView("file:pic/numbers/3.png"));
-        imageview.get(3).setFitWidth(50);
-        imageview.get(3).setFitHeight(50);
+        imageview.get(3).setFitWidth(65);
+        imageview.get(3).setFitHeight(65);
         imageview.add(new javafx.scene.image.ImageView("file:pic/numbers/4.png"));
-        imageview.get(4).setFitWidth(50);
-        imageview.get(4).setFitHeight(50);
+        imageview.get(4).setFitWidth(65);
+        imageview.get(4).setFitHeight(65);
         imageview.add(new javafx.scene.image.ImageView("file:pic/numbers/5.png"));
-        imageview.get(5).setFitWidth(50);
-        imageview.get(5).setFitHeight(50);
+        imageview.get(5).setFitWidth(65);
+        imageview.get(5).setFitHeight(65);
         imageview.add(new javafx.scene.image.ImageView("file:pic/numbers/6.png"));
-        imageview.get(6).setFitWidth(50);
-        imageview.get(6).setFitHeight(50);
+        imageview.get(6).setFitWidth(65);
+        imageview.get(6).setFitHeight(65);
         imageview.add(new javafx.scene.image.ImageView("file:pic/numbers/7.png"));
-        imageview.get(7).setFitWidth(50);
-        imageview.get(7).setFitHeight(50);
+        imageview.get(7).setFitWidth(65);
+        imageview.get(7).setFitHeight(65);
         imageview.add(new javafx.scene.image.ImageView("file:pic/numbers/8.png"));
-        imageview.get(8).setFitWidth(50);
-        imageview.get(8).setFitHeight(50);
+        imageview.get(8).setFitWidth(65);
+        imageview.get(8).setFitHeight(65);
         imageview.add(new javafx.scene.image.ImageView("file:pic/numbers/9.png"));
-        imageview.get(9).setFitWidth(50);
-        imageview.get(9).setFitHeight(50);
+        imageview.get(9).setFitWidth(65);
+        imageview.get(9).setFitHeight(65);
         imageview.add(new javafx.scene.image.ImageView("file:pic/numbers/10.png"));
-        imageview.get(10).setFitWidth(50);
-        imageview.get(10).setFitHeight(50);
+        imageview.get(10).setFitWidth(65);
+        imageview.get(10).setFitHeight(65);
         imageview.add(new javafx.scene.image.ImageView("file:pic/numbers/11.png"));
-        imageview.get(11).setFitWidth(50);
-        imageview.get(11).setFitHeight(50);
+        imageview.get(11).setFitWidth(65);
+        imageview.get(11).setFitHeight(65);
         imageview.add(new javafx.scene.image.ImageView("file:pic/numbers/12.png"));
-        imageview.get(12).setFitWidth(50);
-        imageview.get(12).setFitHeight(50);
+        imageview.get(12).setFitWidth(65);
+        imageview.get(12).setFitHeight(65);
         imageview.add(new javafx.scene.image.ImageView("file:pic/numbers/13.png"));
-        imageview.get(13).setFitWidth(50);
-        imageview.get(13).setFitHeight(50);
+        imageview.get(13).setFitWidth(65);
+        imageview.get(13).setFitHeight(65);
         return imageview;
     }
 
@@ -188,21 +188,21 @@ public class SetpicMainPages {
        
         ArrayList<javafx.scene.image.ImageView> imageview = new ArrayList<javafx.scene.image.ImageView>();  
 
-        imageview.add(new javafx.scene.image.ImageView("file:pic/status/1.jpg"));
-        imageview.get(0).setFitWidth(50);
-        imageview.get(0).setFitHeight(50);
+        imageview.add(new javafx.scene.image.ImageView("file:pic/status/1.png"));
+        imageview.get(0).setFitWidth(90);
+        imageview.get(0).setFitHeight(90);
         
-        imageview.add(new javafx.scene.image.ImageView("file:pic/status/2.jpg"));
-        imageview.get(1).setFitWidth(50);
-        imageview.get(1).setFitHeight(50);
+        imageview.add(new javafx.scene.image.ImageView("file:pic/status/2.png"));
+        imageview.get(1).setFitWidth(90);
+        imageview.get(1).setFitHeight(90);
         
         imageview.add(new javafx.scene.image.ImageView("file:pic/status/3.png"));
-        imageview.get(2).setFitWidth(50);
-        imageview.get(2).setFitHeight(50);
+        imageview.get(2).setFitWidth(90);
+        imageview.get(2).setFitHeight(90);
 
-        imageview.add(new javafx.scene.image.ImageView("file:pic/status/4.jpg"));
-        imageview.get(3).setFitWidth(50);
-        imageview.get(3).setFitHeight(50);
+        imageview.add(new javafx.scene.image.ImageView("file:pic/status/4.png"));
+        imageview.get(3).setFitWidth(90);
+        imageview.get(3).setFitHeight(90);
         return imageview;
     }
 
@@ -211,20 +211,20 @@ public class SetpicMainPages {
         ArrayList<javafx.scene.image.ImageView> imageview = new ArrayList<javafx.scene.image.ImageView>();  
 
         imageview.add(new javafx.scene.image.ImageView("file:pic/status/start/1.png"));
-        imageview.get(0).setFitWidth(50);
-        imageview.get(0).setFitHeight(50);
+        imageview.get(0).setFitWidth(90);
+        imageview.get(0).setFitHeight(90);
         
         imageview.add(new javafx.scene.image.ImageView("file:pic/status/start/1.png"));
-        imageview.get(1).setFitWidth(50);
-        imageview.get(1).setFitHeight(50);
+        imageview.get(1).setFitWidth(90);
+        imageview.get(1).setFitHeight(90);
         
         imageview.add(new javafx.scene.image.ImageView("file:pic/status/start/1.png"));
-        imageview.get(2).setFitWidth(50);
-        imageview.get(2).setFitHeight(50);
+        imageview.get(2).setFitWidth(90);
+        imageview.get(2).setFitHeight(90);
 
         imageview.add(new javafx.scene.image.ImageView("file:pic/status/start/1.png"));
-        imageview.get(3).setFitWidth(50);
-        imageview.get(3).setFitHeight(50);
+        imageview.get(3).setFitWidth(90);
+        imageview.get(3).setFitHeight(90);
         return imageview;
     }
 
@@ -246,7 +246,7 @@ public class SetpicMainPages {
 
     public static javafx.scene.image.ImageView setpicBgHowtoplay(){
         javafx.scene.image.ImageView imageview = new javafx.scene.image.ImageView();  
-        imageview = new javafx.scene.image.ImageView("file:pic/bg/menu.png");
+        imageview = new javafx.scene.image.ImageView("file:pic/bg/Howtoplay.png");
         imageview.setFitWidth(1080);
         imageview.setFitHeight(720);
         return imageview;
@@ -254,7 +254,7 @@ public class SetpicMainPages {
 
     public static javafx.scene.image.ImageView setpicBgHowtoplay2(){
         javafx.scene.image.ImageView imageview = new javafx.scene.image.ImageView();  
-        imageview = new javafx.scene.image.ImageView("file:pic/bg/menu.png");
+        imageview = new javafx.scene.image.ImageView("file:pic/bg/Howtoplay2.png");
         imageview.setFitWidth(1080);
         imageview.setFitHeight(720);
         return imageview;

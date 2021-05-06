@@ -120,13 +120,19 @@ public class sceneController {
     @FXML
     void initialize() {
         mediaPlayer.play();
+        next.getStylesheets().add("design/style.css");
+        skip.getStylesheets().add("design/style.css");
+        enter.getStylesheets().add("design/style.css");
+        toMenu.getStylesheets().add("design/style2.css");
+        exBT.getStylesheets().add("design/style1.css");
         bg.getChildren().add(SetpicMainPages.setpicBgGame());
         setUp();
     }
 
     @FXML
     public void setUp(){
-       
+        
+
         if(start==true){
             start=false;
             RandomHand rand = new RandomHand();
@@ -145,7 +151,9 @@ public class sceneController {
             }
             
             game = new GameSesstion();
+            
     
+
             imageviewButtonOn = SetpicMainPages.setpicOn();
             imageviewButtonOff = SetpicMainPages.setpicOff();
             imageviewButtonPush = SetpicMainPages.setpicPush();

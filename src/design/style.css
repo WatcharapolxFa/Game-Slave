@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'DejaVuSerif-Bold';
+    src: url("file:src/design/DejaVuSerif-Bold.ttf");
+}
+
+.button{
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-radius: 0;
+    -fx-background-color: transparent;
+    -fx-font-size: 30px; /* 12 */
+    -fx-text-fill: #e9d300;
+    -fx-font-family: 'DejaVuSerif-Bold';
+}
+
+.text {
+    -fx-font-family: 'DejaVuSerif-Bold';
+}
+
+.button:focused {
+    -fx-border-color: transparent;
+}
+
+.button:pressed {
+    -fx-text-fill: white;
+}

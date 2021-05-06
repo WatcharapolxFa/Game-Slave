@@ -63,6 +63,7 @@ public class EndGameController {
 
     @FXML
     void initialize() {
+        gotoMenuButton.getStylesheets().add("design/style2.css");
         mediaPlayer.play();
         bg.getChildren().add(SetpicMainPages.setpicBgEndGame());
         int []index = {0,0,0,0} ; 

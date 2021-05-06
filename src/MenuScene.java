@@ -82,6 +82,9 @@ public class MenuScene {
 
     @FXML
     void initialize() {
+        playButton.getStylesheets().add("design/style4.css");
+        exitButton.getStylesheets().add("design/style4.css");
+        howtoButton.getStylesheets().add("design/style5.css");
         bg.getChildren().add(SetpicMainPages.setpicBgMenu());
         mediaPlayer.play();
         assert stackpane != null : "fx:id=\"stackpane\" was not injected: check your FXML file 'MenuScene.fxml'.";
